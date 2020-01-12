@@ -1,0 +1,20 @@
+{
+    "status": "ok",
+    "message": "success",
+    "data": {
+        "id": "507",
+        "name": "ABP News",
+        "description": "",
+        "quality": "[\"LINK 1\",\"LINK 2\",\"LINK 3 (INDIA IP)\",\"LINK 4\"]",
+        "method": "self",
+        "drm": false,
+        "lUrl": "",
+        "h": "aHe30",
+        "mhp": false,
+        "ua": "stagefright\/1.2 (Linux;Android 5.1)",
+        "ref": "",
+        "link": "lpaHR0cDovLzUxLjE1LjIwOS45MDo4ODAwL2NpcC80Yy5yYnQvLDQ4LGh0dHA6Ly96ZXIwbGl2ZS5oamttLmluZm86MTMyOTIvanVuby9hYnBuZXdzL3BsYXlsaXN0Lm0zdTg=",
+        "token": "VLWyJyYiIsImFZZXlKQmRYUm9iM0pwZW1GMGFXOXVJam9pUW1GemFXTWdVVVJCTTA1NlJYbE5VMDAyVVVSQk0wNTZSWGxOVTAwOUlpd2lWWE5sY2kxQloyVnVkQ0k2SWtSaGJIWnBhMXd2TWk0eExqQWdLRXhwYm5WNE95QlZPeUJCYm1SeWIybGtJRFV1TVRzZ1VEWWdVRkpQSUVKMWFXeGtYQzlNVFZrME4wUXBJbjA9IiwiMCIsImFZVzEwPSJd",
+        "ip": "117.233.112.79"
+    }
+}

@@ -1,0 +1,28 @@
+#EXTINF:1, SonyHD
+https://sony247channels.akamaized.net/hls/live/2009800/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578841200_3f34752e46331cad5c6aef0b7118c625|User-Agent=
+#EXTINF:2, SABHD
+https://sony247channels.akamaized.net/hls/live/2009801/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578841200_adbac52ecf0fd90ab8c97600e27895d5|User-Agent=
+#EXTINF:12, MaxSD
+https://sony247channels.akamaized.net/hls/live/2009808/SonyMaxSD/master.m3u8?&__nn__=5606168722001&hdnea=st=1578837600~exp=1578841200~acl=/hls/live/2009808/SonyMaxSD/*~hmac=03d69b45ac1244c036346498b427497a25f2320727d08058dcd2e4315cb8c2db|User-Agent=
+#EXTINF:3, ZeeHD
+https://z5ams.akamaized.net/zeetvhd/index.m3u8|User-Agent=
+#EXTINF:4, AndTVHD
+https://z5ams.akamaized.net/andtvhd/index.m3u8|User-Agent=
+#EXTINF:5, AndPictures
+https://z5ams.akamaized.net/andpicssd/index.m3u|User-Agent=
+#EXTINF:6, StarPlus
+http://146.88.24.48/hotstar/hsplus.php?c=starplushd&e=.m3u8
+#EXTINF:8, ColrsSD
+http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8|User-Agent=ExoPlayerDemo/2.0 (Linux;Android 5.0.1) ExoPlayerLib/2.7.3/19.0
+#EXTINF:9, StarHD
+http://starplushd-i.akamaihd.net/hls/live/569928-b/starplushd/master_1200.m3u8|User-Agent=Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5
+#EXTINF:10, StarMOVIESHD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
+#EXTINF:11, BB
+https://vootlivelinear.akamaized.net/hls/live/2008467/VootBBH13/master.m3u8
+#EXTINF:12, Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:13, NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+#EXTINF:19, StarGOLDHD
+https://staragold-i.akamaihd.net/hls/live/569910-b/staragold/master_1200.m3u8|User-Agent=Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5

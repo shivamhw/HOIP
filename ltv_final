@@ -1,0 +1,10 @@
+ 
+	 
+ {
+    "authToken": {
+        "wmsAuthSignText": "Success",
+        "wmsAuthSign": "c2VydmVyX3RpbWU9MS80LzIwMjAgMTA6MDQ6MDggQU0maGFzaF92YWx1ZT1hU1VzR3piQzFtRmlOVlJPRU1IYWdnPT0mdmFsaWRtaW51dGVzPTI=",
+        "device_id": "z1JMKteDSoXmny"
+    },
+    "videoToken": "?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjAgMTA6MDQ6MDggQU0maGFzaF92YWx1ZT1lYTY3eEQwOUZnSDkveTdUQzBlakdBPT0mdmFsaWRtaW51dGVzPTI="
+}

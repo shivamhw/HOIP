@@ -1,0 +1,32 @@
+
+#EXTINF:-1, Sony SAB
+https://sony247channels.akamaized.net/hls/live/2008252/SABHD/master.m3u8?&__nn__=5606168722001&hdnea=st=1576436400~exp=1576440000~acl=/hls/live/2008252/SABHD/*~hmac=fb6d2d41bcb98c720df3c9b6f1cb0c664b1bdc1c53ff80a141aba0d28dbbd8db
+
+#EXTINF:-2, zee
+https://z5ams.akamaized.net/zeetvhd/index.m3u8?hdnts=st=1576436590~exp=1576439590~acl=/*~hmac=da2de23fe88934734c02b99aa2dd8419838a9e9cff5e150ecc53dc2bde942750|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+
+#EXTINF:-3, And TV
+https://z5ams.akamaized.net/andtvhd/index.m3u8?hdnts=st=1576436590~exp=1576439590~acl=/*~hmac=da2de23fe88934734c02b99aa2dd8419838a9e9cff5e150ecc53dc2bde942750|User-Agent=""
+#EXTINF:-4, Sony
+https://sony247channels.akamaized.net/hls/live/2008252/SETHD/master.m3u8?&__nn__=5606168722001&hdnea=st=1576436400~exp=1576440000~acl=/hls/live/2008252/SETHD/*~hmac=affb31a2f3c27b8c67ca5881be9c792e5d2aa26702b4e3fb796b0f8f3cc1e15a
+
+#EXTINF:-5, Colors
+https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8|User-Agent=""
+
+#EXTINF:-6, StarPlus
+http://146.88.24.48/hotstar/hsplus.php?c=starplushd&e=.m3u8|User-Agent=""
+
+#EXTINF:8, ColrsSD
+http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8|User-Agent="ExoPlayerDemo/2.0 (Linux;Android 5.0.1) ExoPlayerLib/2.7.3/19.0"
+
+#EXTINF:9, StarHD
+http://starplushd-i.akamaihd.net/hls/live/569928-b/starplushd/master_1200.m3u8|User-Agent=Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5 
+
+#EXTINF:10, StarMOVIESHD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8|User-Agent=
+
+#EXTINF:10, BB
+https://vootlivelinear.akamaized.net/hls/live/2008467/VootBBH13/master.m3u8
+#EXTINF:11, AndPicturesSD
+https://z5ams.akamaized.net/andpicssd/index.m3u8?hdnts=st=1576436590~exp=1576439590~acl=/*~hmac=da2de23fe88934734c02b99aa2dd8419838a9e9cff5e150ecc53dc2bde942750
+

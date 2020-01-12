@@ -1,0 +1,3 @@
+
+wget -O pnk -d --header="WWW-Authenticate: IVYBOWQn+1rgFXNAWMDB06XjA=" --header="Cookie: __cfduid=df9a46a0b5e77f8f65ebc7428180ae1521576917312" --post-file postj http://pankajbd.com/HdStm/api/get.php ; cat pnk
+

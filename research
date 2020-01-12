@@ -1,0 +1,69 @@
+http://zer0live.hjkm.info:13292/neptune/colorstvhd/playlist.m3u8?wmsAuthSign=
+
+
+
+
+
+
+wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAxOSA4OjI5OjUzIEFNJmhhc2hfdmFsdWU9VkhOSXVRR2RRRXdHT3dTanpzWmx3QT09JnZhbGlkbWludXRlcz0y    --- actual
+wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAxOSA4OjI5OjU0IEFNJmhhc2hfdmFsddWU9cjdYMTVdHQmxnwd0pSNWtNWcU1YUWprdz09JnZhbGlkbWludXRlcz0y --- rbt 
+
+
+
+HDSTRAMZZ
+
+
+http://zer0live.hjkm.info:13292/juno/abpnews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAxOSA4OjM2OjAwIEFNJmhhc2hfdmFsdWU9UTV2bEVFOEJmMEQxNjNSbEtlS2JjZz09JnZhbGlkbWludXRlcz0y
+
+wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAxOSA4OjM2OjAwIEFNJmhhc2hfdmFsdWU9UTV2bEVFOEJmMEQxNjNSbEtlS2JjZz09JnZhbGlkbWludXRlcz0y  -- panakjresponce
+wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAxOSA4OjM2OjAwIEFNJmhhc2hfdmFsdWU9UTV2bEVFOEJmMEQxNjNSbEtlS2JjZz09JnZhbGlkbWludXRlcz0y  -- actual
+wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAxOSA4OjM2OjAwIEFNJmhhc2hfdmFsdWU9UTV2bEVFOEJmMEQxNjNSbEtlS2JjZz0nT9JqSnZhbGlkbWludXRlcz0y  --- rbt
+wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAxOSA4OjM2OjAwIEFNJmhhc2hfdmFsdWU9UTV2bEVFOEJmMEQxNjNSbEtlS2JjZz0nT9JqSnZhbGlkbWludXRlcz0y  --- pankajbd get
+wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAxOSA5OjEwOjU2IEFNJmhhc2hfdmFsdWU9Q1pZZnFib2N1eWx5OTVUc2dKNVRGdz0Vz9JiqnZhbGlkbWludXRlcz0y    -- neww
+
+
+
+pankajbd
+
+http://pankajbd.com/HdStm/api/get.php
+
+data=?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAxOSA4OjM2OjAwIEFNJmhhc2hfdmFsdWU9UTV2bEVFOEJmMEQxNjNSbEtlS2JjZz0nT9JqSnZhbGlkbWludXRlcz0y
+source=http://51.15.209.90:8800/cip/4c.rbt/,48,http://zer0live.hjkm.info:13292/juno/abpnews/playlist.m3u8
+type=rb
+
+
+cookiepan = __cfduid=d76828ba3971e8c3edf01a9b33eecd1181576917619
+
+__cfduid=df9a46a0b5e77f8f65ebc7428180ae1521576917312   --phone
+
+
+
+RAW pankajb---
+
+POST /HdStm/api/get.php HTTP/1.1
+WWW-Authenticate: IVYBOWQn+1rgFXNAWMDB06XjA=
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; ONEPLUS A5010 Build/PKQ1.180716.001)
+Host: pankajbd.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Cookie: __cfduid=df9a46a0b5e77f8f65ebc7428180ae1521576917312
+Content-Length: 285
+
+data=%3FwmsAuthSign%3Dc2VydmVyX3RpbWU9MTIvMjEvMjAxOSA4OjM2OjAwIEFNJmhhc2hfdmFsdWU9UTV2bEVFOEJmMEQxNjNSbEtlS2JjZz0nT9JqSnZhbGlkbWludXRlcz0y&source=http%3A%2F%2F51.15.209.90%3A8800%2Fcip%2F4c.rbt%2F%2C48%2Chttp%3A%2F%2Fzer0live.hjkm.info%3A13292%2Fjuno%2Fabpnews%2Fplaylist.m3u8&type=rb&
+
+
+http:\/\/zer0live.hjkm.info:13292\/juno\/abpnews\/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAxOSA4OjM2OjAwIEFNJmhhc2hfdmFsdWU9UTV2bEVFOEJmMEQxNjNSbEtlS2JjZz09JnZhbGlkbWludXRlcz0y
+
+rbt
+
+http://51.15.209.90:8800/cip/4c.rbt/
+
+GET /cip/4c.rbt/ HTTP/1.1
+Authorization: Basic QDA3NzEyMSM6QDA3NzEyMSM=
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1; P6 PRO Build/LMY47D)
+Host: 51.15.209.90:8800
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+

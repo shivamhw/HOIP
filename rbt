@@ -1,0 +1,2 @@
+wget -O 1pnk -d --header="Authorization: Basic QDA3NzEyMSM6QDA3NzEyMSM=" -U "Dalvik/2.1.0 (Linux; U; Android 5.1; P6 PRO Build/LMY47D)" http://51.15.209.90:8800/cip/4c.rbt/; cat 1pnk 
+

@@ -1,0 +1,9 @@
+#!/bin/bash
+
+head='Authorization: Basic eWFyYXBuYWthYW1rYXJvOnR1bmduYWtpYWthcm8='
+ua="Dalvik/2.1.0 (Linux; U; Android 10; Android SDK built for x86 Build/QSR1.190920.001)"
+
+
+wget -O thop_rbt_token -d --header="$head" -U "$ua" http://51.15.209.90:8800/fio/3b.rbt/
+echo "Passed new Token"
+./thop_rbt_to_act

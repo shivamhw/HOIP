@@ -1,0 +1,24 @@
+wget -d --header="Cookie: PHPSESSID=rv4i5bqutq089e0o4ukmva60h0" -U "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.126 Electron/6.0.3 Safari/537.36" -O ltv http://app.liveplanettv.com/beta/api.php?device_id=z1JMKteDSoXmny
+
+tok=`cat ltv  | grep '"wmsAuthSign"' | cut -d'"' -f4`
+
+echo $tok
+
+wget -d --header="Cookie: PHPSESSID=rv4i5bqutq089e0o4ukmva60h0" -U "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.126 Electron/6.0.3 Safari/537.36" -O ltv_final "http://app.liveplanettv.com/beta/token.php?wmsAuthSign=$tok&device_id=z1JMKteDSoXmny"
+
+#wget -d --header="Cookie: PHPSESSID=rv4i5bqutq089e0o4ukmva60h0" -U "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.126 Electron/6.0.3 Safari/537.36" -O ltv_test "http://app.liveplanettv.com/beta/api.php?channel_id=419&msAuthSign=$tok&device_id=z1JMKteDSoXmny"
+
+vid_tok=`cat ltv_final | jq -r ".videoToken"`
+
+echo "http://51.159.34.142:8081/lpcind2/colorstvhd/playlist.m3u8$vid_tok" > ltv.m3u8
+
+echo "http://51.15.5.80:8081/lpcuk/cartoonnetwork/playlist.m3u8$vid_tok" >> ltv.m3u8
+
+echo "http://51.159.34.142:8081/lpcind1/zeetvhd/playlist.m3u8$vid_tok" >> ltv.m3u8
+
+echo "http://51.159.34.142:8081/lpcind2/andpictureshd/playlist.m3u8$vid_tok" >> ltv.m3u8
+
+echo "http://157.230.119.43:4545/ind2020/mtvin/playlist.m3u8$vid_tok" >> ltv.m3u8
+
+cat ltv.m3u8
+

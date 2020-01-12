@@ -1,0 +1,79 @@
+ 
+	 
+ {
+    "LIVETV": {
+        "token": {
+            "wmsAuthSignText": "Success",
+            "wmsAuthSign": "c2VydmVyX3RpbWU9MS80LzIwMjAgMTA6MDM6NDcgQU0maGFzaF92YWx1ZT1WdDVBa3ZVUG5XbnQ2RE9lb0JWdmhnPT0mdmFsaWRtaW51dGVzPTI=",
+            "device_id": "z1JMKteDSoXmny",
+            "media_token_url": "http://app.liveplanettv.com/beta/token.php"
+        },
+        "category": [
+            {
+                "cid": "75",
+                "category_name": "Arabian TV",
+                "category_image": "28889_93461_ARABIC.jpg"
+            },
+            {
+                "cid": "45",
+                "category_name": "FRANCE TV",
+                "category_image": "4682_32216_FRANCE.jpg"
+            },
+            {
+                "cid": "52",
+                "category_name": "GERMANY TV",
+                "category_image": "34456_50203_GERMANY.jpg"
+            },
+            {
+                "cid": "64",
+                "category_name": "INDIAN TV",
+                "category_image": "58022_40441_INDIAN.jpg"
+            },
+            {
+                "cid": "77",
+                "category_name": "KIDS TV",
+                "category_image": "30039_82448_KIDS.jpg"
+            },
+            {
+                "cid": "33",
+                "category_name": "PAKISTANI TV",
+                "category_image": "20480_45913_PAKISTANI.jpg"
+            },
+            {
+                "cid": "51",
+                "category_name": "PORTUGAL TV",
+                "category_image": "76886_28669_PORTUGAL.jpg"
+            },
+            {
+                "cid": "74",
+                "category_name": "SOUTH INDIAN",
+                "category_image": "63415_20477_SOUTHINDIAN (1).jpg"
+            },
+            {
+                "cid": "38",
+                "category_name": "SPORTS TV",
+                "category_image": "47190_1434_SPORTS.jpg"
+            },
+            {
+                "cid": "73",
+                "category_name": "TURKISH",
+                "category_image": "52698_41272_Turkey (1).jpg"
+            },
+            {
+                "cid": "36",
+                "category_name": "UK TV",
+                "category_image": "49049_22488_UK.jpg"
+            },
+            {
+                "cid": "78",
+                "category_name": "USA TV",
+                "category_image": "7670_74909_USA.jpg"
+            },
+            {
+                "cid": "65",
+                "category_name": "WILDLIFE/SCI TV",
+                "category_image": "98218_56986_WILDSCIENC.jpg"
+            }
+        ]
+    }
+}
