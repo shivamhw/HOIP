@@ -8,7 +8,7 @@ URL="10.84.129.1"
 echo $USER $PASS
 
 cd ~
-rm IVM014012.dat
+rm IVM01412.dat
 
 ftp -n $URL << EOF
 quote USER $USER
