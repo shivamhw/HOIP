@@ -5,14 +5,18 @@ PASS="jFvt52jM"
 #PASS="password"
 #URL="test.rebex.net"
 URL="10.84.129.1"
-echo $USER $PASS
+FILE="IVM01412.dat"
 
+
+echo $USER $PASS
 cd ~
 rm IVM01412.dat
+
 
 ftp -n $URL << EOF
 quote USER $USER
 quote PASS $PASS
-get IVM01412.dat
+cd DailyDeliveredDateReport_PROD
+get $FILE
 quit
 EOF
